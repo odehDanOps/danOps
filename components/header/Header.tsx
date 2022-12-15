@@ -11,8 +11,8 @@ import logo from '../../public/images/logo/danops.png'
 const navigation = {
 	categories: [
 	  {
-		id: 'services',
-		name: 'Services',
+		id: 'specialization',
+		name: 'Specialization',
 		sections: [
 		  {
 			id: 'development',
@@ -48,6 +48,7 @@ const navigation = {
 			id: 'programming',
 			name: 'Programming',
 			items: [
+			  { name: 'Python for Kids', href: '#' },
 			  { name: 'Learn Python', href: '#' },
 			  { name: 'Learn Golang', href: '#' }
 			],
