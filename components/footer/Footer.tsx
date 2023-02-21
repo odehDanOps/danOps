@@ -69,7 +69,7 @@ function Footer() {
 					</div>
 				</div>
 				<div className="border-t border-gray-200 pt-6">
-					<p className="lg:text-center text-sm text-gray-400">&copy; 2022 DanOps</p>
+					<p className="lg:text-center text-sm text-gray-400">&copy; 2023 DanOps</p>
 				</div>
 			</div>
 		</footer>
